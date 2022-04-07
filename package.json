@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-testing-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelmeet1372/ci-cd-testing-gh-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelmeet1372/ci-cd-testing-gh-actions/issues"
+  },
+  "homepage": "https://github.com/patelmeet1372/ci-cd-testing-gh-actions#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
